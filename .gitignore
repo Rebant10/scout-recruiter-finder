@@ -1,0 +1,19 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Dependencies and logs
+node_modules/
+*.log
+coverage/
+
+# Secrets: API keys belong in environment variables or Scout's Settings, never in the repo
+.env
+.env.*
+!.env.example
+
+# Chrome's "Pack extension" output; the .pem is the extension's private signing key
+*.crx
+*.pem
