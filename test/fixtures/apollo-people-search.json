@@ -1,0 +1,36 @@
+{
+  "total_entries": 3,
+  "people": [
+    {
+      "id": "67bdafd0c3a4c50001bbd7c2",
+      "first_name": "Priya",
+      "last_name_obfuscated": "Sh***a",
+      "title": "Senior Technical Recruiter",
+      "last_refreshed_at": "2026-09-04T23:20:32.690+00:00",
+      "has_email": true,
+      "has_city": true,
+      "has_state": true,
+      "has_country": true,
+      "has_direct_phone": "Yes",
+      "organization": { "name": "Northwind Labs", "has_industry": true, "has_phone": false }
+    },
+    {
+      "id": "6775057df8360a0001a6852c",
+      "first_name": "Jon",
+      "last_name_obfuscated": "St***g",
+      "title": "Talent Acquisition Partner",
+      "last_refreshed_at": "2026-08-05T15:56:08.901+00:00",
+      "has_email": false,
+      "organization": { "name": "Northwind Labs, Inc." }
+    },
+    {
+      "id": "637dd5071c576c0001ccbff4",
+      "first_name": "Lorena",
+      "last_name_obfuscated": "Ac***a",
+      "title": "Recruiter",
+      "last_refreshed_at": "2026-07-01T10:00:00.000+00:00",
+      "has_email": true,
+      "organization": { "name": "Contoso" }
+    }
+  ]
+}

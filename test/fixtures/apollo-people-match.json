@@ -1,0 +1,21 @@
+{
+  "person": {
+    "id": "67bdafd0c3a4c50001bbd7c2",
+    "first_name": "Priya",
+    "last_name": "Sharma",
+    "name": "Priya Sharma",
+    "linkedin_url": "http://www.linkedin.com/in/priya-sharma-4a7c21",
+    "title": "Senior Technical Recruiter",
+    "email_status": "verified",
+    "photo_url": null,
+    "headline": "Senior Technical Recruiter at Northwind Labs",
+    "email": "priya.sharma@northwindlabs.io",
+    "organization_id": "61f2d5a8c40b7200019e4f31",
+    "match_confidence": "high",
+    "organization": {
+      "id": "61f2d5a8c40b7200019e4f31",
+      "name": "Northwind Labs",
+      "primary_domain": "northwindlabs.io"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "data": {
+    "domain": "piedpiper.com",
+    "disposable": false,
+    "webmail": false,
+    "accept_all": false,
+    "pattern": "{first}",
+    "organization": "Pied Piper",
+    "linked_domains": [],
+    "emails": [
+      {
+        "value": "richard@piedpiper.com",
+        "type": "personal",
+        "source_type": "found",
+        "provenance": "found",
+        "confidence": 99,
+        "sources": [],
+        "first_name": "Richard",
+        "last_name": "Hendricks",
+        "position": "CEO",
+        "position_raw": "CEO",
+        "seniority": "executive",
+        "department": null,
+        "decision_maker": false,
+        "linkedin": "https://www.linkedin.com/in/richard-hendricks-a70944101/",
+        "twitter": "rhendricks",
+        "phone_number": "+1 650 555 5555",
+        "verification": {
+          "date": "2023-01-01",
+          "status": "valid"
+        }
+      }
+    ]
+  },
+  "meta": {
+    "results": 1,
+    "results_approximate": false,
+    "limit": 10,
+    "offset": 0,
+    "params": {
+      "domain": "stripe.com",
+      "company": null,
+      "type": null,
+      "seniority": null,
+      "department": null,
+      "decision_maker": null
+    }
+  }
+}

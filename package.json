@@ -1,0 +1,14 @@
+{
+  "name": "scout-recruiter-finder",
+  "version": "2.2.0",
+  "private": true,
+  "description": "Chrome extension and local web app: type a company, get its recruiters' work emails from Hunter.io or Apollo.io.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test \"test/**/*.test.mjs\""
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
